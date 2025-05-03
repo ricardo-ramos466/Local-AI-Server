@@ -1,2 +1,2 @@
 # Local-AI-Server
-Local AI server using LM Studio and Spring AI
+Local AI server using ollama and Spring AI as the accesspoint 
